@@ -1,1 +1,4 @@
 *.txt
+node_modules/
+bin/
+obj/
